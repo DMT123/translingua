@@ -1,0 +1,54 @@
+{
+  "name": "translingua",
+  "version": "4.0.0",
+  "private": true,
+  "description": "TransLingua — Document translation platform with structure preservation across 20+ languages.",
+  "keywords": [
+    "translation",
+    "document-translation",
+    "structure-preservation",
+    "OCR",
+    "multilingual",
+    "AI"
+  ],
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "dev:convex": "npx convex dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "convex:deploy": "npx convex deploy"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^7.0.1",
+    "@clerk/themes": "^2.4.57",
+    "@react-email/components": "^1.0.8",
+    "@tanstack/react-query": "^5.90.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "convex": "^1.32.0",
+    "docx": "^9.6.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.0",
+    "lucide-react": "^0.577.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-stringify": "^11.0.0",
+    "resend": "^6.9.3",
+    "sonner": "^2.0.7",
+    "stripe": "^20.4.1",
+    "tailwind-merge": "^3.5.0",
+    "unified": "^11.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}

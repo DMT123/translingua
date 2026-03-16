@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# env
+.env
+.env.local
+.env.production.local
+
+# convex
+convex/_generated/
+
+# misc
+.DS_Store
+*.tgz
+files.zip
+translingua-v4.tar.gz
+
+# vercel
+.vercel/
+
+# ide
+.vscode/
+.idea/
+.vercel

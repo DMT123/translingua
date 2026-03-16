@@ -1,0 +1,23 @@
+# TransLingua
+
+> Document translation platform supporting 20+ languages with any-to-any pairs and full structure preservation.
+
+## What It Does
+
+TransLingua translates documents between any supported language pair — not limited to English-centric routes. Russian to Bulgarian, Hungarian to Czech, Arabic to Japanese. Three input modes: text, voice (speech-to-text), and image (OCR). The key differentiator is that document structure (headings, tables, lists, footers, bold/italic) is preserved through translation and in exported files (DOCX, PDF, HTML, TXT).
+
+## Supported Languages (20)
+
+English, Russian, Bulgarian, Hungarian, Spanish, French, German, Italian, Portuguese, Chinese, Japanese, Korean, Arabic, Hindi, Polish, Czech, Romanian, Ukrainian, Turkish, Dutch
+
+## Pricing
+
+- Free: 10,000 chars/month, 5 voice minutes, 600 MB storage
+- Pro (£15/month): 500,000 chars, 60 voice minutes, 7 GB storage
+- Team (£49/month): 2,000,000 chars, 300 voice minutes, 35 GB storage
+- Enterprise: Custom pricing, unlimited usage
+
+## Links
+
+- Homepage: https://translingua.app
+- Pricing: https://translingua.app/pricing
